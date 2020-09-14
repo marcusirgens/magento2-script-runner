@@ -31,7 +31,7 @@ Clone this repository into your Magento folder. Remember not to commit it.
 
 You can also do this, athough you shouldn't. It will install it under `./script_runner`.
 ```shell script
-sh -c "$(curl -SsfL https://raw.githubusercontent.com/marcusirgens/magento2-script-runner/main/install.sh)"
+bash -c "$(curl -SsfL https://raw.githubusercontent.com/marcusirgens/magento2-script-runner/main/install.sh)"
 ```
 
 If you're in your Magento 2 application directory at `/my/code/folder`,
