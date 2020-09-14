@@ -1,9 +1,5 @@
 <?php
 
-/**
- * @author Marcus Pettersen Irgens <marcus.irgens@visma.com>
- */
-
 declare(strict_types=1);
 
 /**

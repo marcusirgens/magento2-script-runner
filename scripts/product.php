@@ -8,7 +8,7 @@
 declare(strict_types=1);
 
 /**
- * @var $om \Magento\Framework\ObjectManagerInterface
+ * @var \Magento\Framework\ObjectManagerInterface $om
  * @var \Magento\Catalog\Api\ProductRepositoryInterface $pr
  * @var \Magento\Framework\Api\SearchCriteriaBuilderFactory $scf
  */
